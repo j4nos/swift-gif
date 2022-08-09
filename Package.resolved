@@ -30,7 +30,7 @@
       },
       {
         "package": "swift-graphics",
-        "repositoryURL": "https://github.com/fwcd/swift-graphics.git",
+        "repositoryURL": "https://github.com/j4nos/swift-graphics.git",
         "state": {
           "branch": null,
           "revision": "06760653516ce19753d1a2f61879a2915987e51a",
